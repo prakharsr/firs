@@ -1,0 +1,12 @@
+goo
+moo
+run
+ran
+train
+car
+bus
+cycle
+help
+big
+fly
+small
